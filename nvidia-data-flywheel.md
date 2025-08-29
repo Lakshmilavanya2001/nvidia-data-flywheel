@@ -1,8 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# Convert this to markdown script
-
-Here is the content from "NVIDIA-Data-Flywheel.docx" converted into a well-structured Markdown script.[^1]
 
 ***
 
