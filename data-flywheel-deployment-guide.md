@@ -1,8 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# Convert this file to markdown script.
-
-Here is the content from "NVIDIA-Data-Flywheel.docx" fully converted to a clean, organized Markdown script.[^1]
 
 ***
 
@@ -224,16 +220,6 @@ kubectl logs -n data-flywheel -l app=flywheel-orchestrator -f
 # Apply NeMo microservices
 kubectl apply -n nemo -f k8s-nim-operator/config/samples/nemo/latest/
 ```
-
-
-***
-
-### 14. Next Steps \& Scaling Tips
-
-- Automate CI (GitOps with ArgoCD/Flux) for config files/manifests
-- Integrate human data labeling/verification loop
-- Use distillation/evaluation pipelines to surface smaller/cost-efficient models
-[NVIDIA Developer](https://developer.nvidia.com/blog/build-efficient-ai-agents-through-model-distillation-with-nvidias-data-flywheel-blueprint/?utm_source=chatgpt.com)
 
 ***
 
