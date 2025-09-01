@@ -30,6 +30,7 @@ sudo docker run -d --name hanaexpress --restart unless-stopped --ulimit nofile=1
 ```
 
 - Verify that SAP HANA is running and accessible on the mapped ports (usually 39015 for SQL).
+- Add the data in the database.
 
 ---
 
