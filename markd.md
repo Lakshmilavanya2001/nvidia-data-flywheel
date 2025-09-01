@@ -15,7 +15,9 @@ The architecture separates retrieval and generation for modularity and performan
 - User query submitted in plain language  
 - Milvus (vector DB) retrieves relevant context using NVIDIA embeddings  
 - NIM-hosted LLM (via OpenAI-compatible interface) generates the SQL  
-- SQL is executed on SAP HANA, and results are returned  
+- SQL is executed on SAP HANA, and results are returned
+
+![Text-to-SQL Architecture](text-to-sql-arch-diagram.png)
 
 ---
 
