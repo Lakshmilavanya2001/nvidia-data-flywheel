@@ -10,6 +10,7 @@ A **Data Flywheel** is an automated continuous workflow that uses production tra
 [GitHub](https://github.com/NVIDIA-AI-Blueprints/data-flywheel) -  [NVIDIA Developer](https://developer.nvidia.com/blog/build-efficient-ai-agents-through-model-distillation-with-nvidias-data-flywheel-blueprint/?utm_source=chatgpt.com)
 
 ***
+![architecture-diagram](architecture-diagram.png)
 
 ## High-level Flow
 
